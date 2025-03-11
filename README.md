@@ -49,7 +49,7 @@
 ### 📫 Entre em contato
 
 [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/luan-felipe-antunes-001017218/)
-[![Email](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](mailto:luanfelipe12.antunes@gmail.com)
+[![Email](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:luanfelipe12.antunes@gmail.com)
 [![Instagram](https://img.icons8.com/?size=100&id=32323&format=png&color=000000)](https://www.instagram.com/lf_antunes/)
 
 🔥 _Sempre em busca de novos desafios e oportunidades!_ 🚀
