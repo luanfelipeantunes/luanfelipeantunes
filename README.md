@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou [Luan Felipe]  
+### 👋 Olá! Eu sou Luan Felipe
 
 💻 **Desenvolvedor Full Stack** | 🚀 Apaixonado por tecnologia | 🔥 Sempre aprendendo algo novo
 
