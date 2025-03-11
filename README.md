@@ -29,8 +29,8 @@
 ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
 ![PostgreSQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)
 ![MySql](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)
+![Postman](https://img.icons8.com/?size=100&id=IoYmHUxgvrFB&format=png&color=000000)
 ![Photoshop](https://img.icons8.com/?size=100&id=dwfuFrQfNSOo&format=png&color=000000)
-![Postman](https://img.icons8.com/?size=100&id=dwfuFrQfNSOo&format=png&color=000000)
 
 ---
 
