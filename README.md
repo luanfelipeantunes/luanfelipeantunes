@@ -8,7 +8,7 @@
 
 - 🎓 **Engenharia de Software** na Universidade Estadual de Ponta Grossa (3º ano)  
 - 💼 Desenvolvedor Full Stack na **LaonLabs**  
-- ⚡ Experiência com **React.js, Node.js, Laravel, MySQL, PostgreSQL, Python**  
+- ⚡ Experiência com **React.js, Node.js, Next.js, Laravel, MySQL, PostgreSQL**  
 - ☁️ Explorando **DevOps, Cloud, IA e Machine Learning**  
 - 🌎 Inglês intermediário
 
