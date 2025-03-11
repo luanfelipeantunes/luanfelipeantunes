@@ -16,11 +16,11 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![React](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000)
+![Node.js](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
+![Laravel](https://img.icons8.com/?size=100&id=UG5EO81XNkPs&format=png&color=000000)
+![PostgreSQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)
+![AWS](https://img.icons8.com/?size=100&id=mHi46t5vguiz&format=png&color=000000)
 ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
 
 ---
