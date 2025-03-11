@@ -19,9 +19,12 @@
 ![React](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000)
 ![Node.js](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
 ![Laravel](https://img.icons8.com/?size=100&id=UG5EO81XNkPs&format=png&color=000000)
-![PostgreSQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)
 ![AWS](https://img.icons8.com/?size=100&id=mHi46t5vguiz&format=png&color=000000)
 ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![PostgreSQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)
+![MySql](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)
+![Postman](https://img.icons8.com/?size=100&id=dwfuFrQfNSOo&format=png&color=000000)
+![Photoshop](https://img.icons8.com/?size=100&id=dwfuFrQfNSOo&format=png&color=000000)
 
 ---
 
