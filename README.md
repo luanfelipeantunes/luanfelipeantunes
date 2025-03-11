@@ -23,7 +23,7 @@
 ![React.js](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000)
 ![Next.js](https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000)
 ![Node.js](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
-![React Native](https://w7.pngwing.com/pngs/344/176/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png)
+![React Native](https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000)
 ![Laravel](https://img.icons8.com/?size=100&id=UG5EO81XNkPs&format=png&color=000000)
 ![AWS](https://img.icons8.com/?size=100&id=mHi46t5vguiz&format=png&color=000000)
 ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
